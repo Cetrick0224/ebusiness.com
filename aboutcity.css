@@ -1,0 +1,22 @@
+body{
+    font-family: Roboto, sans-serif;}
+
+.city{height: 225px;}
+
+h1{font-size: 24px;
+text-align: center;}
+h2{font-size: 16px;
+  color:blue;}
+p{font-size: 14px;
+  word-spacing: 325px;
+  font-style: italic;
+}
+p1{font-size: 12px;}
+a{
+   color:navy;
+   text-decoration: underline;
+}
+a:hover{
+   color:navy;
+   text-decoration: none;
+}

@@ -1,0 +1,30 @@
+body{
+     font-family: Roboto, sans-serif;}
+
+.travelhighlight{height: 225px;}
+.events{ height: 225px;}
+.performances{ height: 225px;}
+h1{font-size: 24px;}
+h2{font-size: 16px;
+   color: goldenrod;}
+p{font-size: 14px;
+   word-spacing: 325px;
+   font-style: italic;
+}
+p1{font-size: 12px;}
+a{
+    color:navy;
+    text-decoration: underline;
+}
+a:hover{
+    color:navy;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+

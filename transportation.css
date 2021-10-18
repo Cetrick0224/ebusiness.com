@@ -1,0 +1,15 @@
+h1{text-align: center;
+color: steelblue;}
+h2{text-indent: 20px;}
+.transport{height: 200px;}
+p2{word-spacing: 300px;
+font-style: italic;}
+
+a{
+     color:navy;
+     text-decoration: underline;
+ }
+ a:hover{
+     color:navy;
+     text-decoration: none;
+ }
